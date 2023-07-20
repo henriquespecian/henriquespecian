@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi I'm Henrique 👋
 
-<!--
-**henriquespecian/henriquespecian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/henriquespecian/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/henriquespecian)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+Tech Lead | Scrum Master | C# Backend Developer | Runner | Soon-to-be Married 
+
+
+- 🌱 Passionate about technology and teamwork, I've spent 8 years honing my skills as a C# backend developer. As a Tech Lead and Scrum Master, I thrive in fast-paced environments, empowering teams to deliver exceptional results. 
+
+- :running_man: When I'm not coding, you'll find me hitting the pavement, as running is my go-to stress reliever. 
+
+- 💍 Excitedly looking forward to the next chapter, as I embark on the journey to marriage. Let's connect and collaborate on GitHub! 
+
