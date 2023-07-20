@@ -8,7 +8,7 @@
 Tech Lead | Scrum Master | C# Backend Developer | Runner | Soon-to-be Married 
 
 
-- 🌱 Passionate about technology and teamwork, I've spent 8 years honing my skills as a C# backend developer. As a Tech Lead and Scrum Master, I thrive in fast-paced environments, empowering teams to deliver exceptional results. 
+- 🌱 Passionate about technology and teamwork, I've spent 8 years honing my skills as a C# backend developer. As a Tech Lead and Scrum Master, I am committed to nurturing a positive and productive collaboration environment.
 
 - :running_man: When I'm not coding, you'll find me hitting the pavement, as running is my go-to stress reliever. 
 
