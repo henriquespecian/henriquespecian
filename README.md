@@ -12,5 +12,3 @@ Tech Lead | Scrum Master | C# Backend Developer | Runner | Soon-to-be Married
 
 - :running_man: When I'm not coding, you'll find me hitting the pavement, as running is my go-to stress reliever. 
 
-- 💍 Excitedly looking forward to the next chapter, as I embark on the journey to marriage. Let's connect and collaborate on GitHub! 
-
