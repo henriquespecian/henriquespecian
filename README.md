@@ -1,7 +1,7 @@
 ### Hi I'm Henrique 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/henriquespecian/](https://www.linkedin.com/in/henriquespecian/))
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/henriquespecian?style=for-the-badge)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henriquespecian/)
+[![X (formerly Twitter](https://img.shields.io/badge/follow%20me-grey?style=for-the-badge&logo=x)](https://x.com/henriquespecian)
 
 ### About me
 Squad Leader | Tech Lead | Scrum Master | C# Backend Developer | Runner
